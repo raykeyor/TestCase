@@ -1,0 +1,821 @@
+Wed, 06 Jun 2018 13:34:26 test_common.py[line:44] INFO The count for crawler_urls is 3 
+Wed, 06 Jun 2018 13:45:48 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 13:45:48 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 13:45:49 allsitespider.py[line:289] INFO Current url amount 2 > 1, stop parse urls.
+Wed, 06 Jun 2018 13:45:50 allsitespider.py[line:114] INFO Request num: 3.
+Wed, 06 Jun 2018 13:45:50 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 13:45:50 allsitespider.py[line:116] INFO Response num: 4.
+Wed, 06 Jun 2018 13:45:50 allsitespider.py[line:117] INFO Abstract urls: 2.
+Wed, 06 Jun 2018 13:45:50 allsitespider.py[line:118] INFO Filter urls: 0.
+Wed, 06 Jun 2018 13:45:50 allsitespider.py[line:119] INFO Filter history urls: 0.
+Wed, 06 Jun 2018 13:45:50 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 13:45:50 allsitespider.py[line:121] INFO All urls: 3.
+Wed, 06 Jun 2018 13:45:50 allsitespider.py[line:122] INFO Time usage: 0:00:01.760068
+Wed, 06 Jun 2018 13:45:50 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 13:45:50 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 13:45:50 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 13:45:50 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 13:45:50 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 13:45:59 test_common.py[line:28] INFO The database set already .
+Wed, 06 Jun 2018 13:46:14 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 13:46:14 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 13:46:15 allsitespider.py[line:289] INFO Current url amount 2 > 1, stop parse urls.
+Wed, 06 Jun 2018 13:46:16 allsitespider.py[line:114] INFO Request num: 3.
+Wed, 06 Jun 2018 13:46:16 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 13:46:16 allsitespider.py[line:116] INFO Response num: 4.
+Wed, 06 Jun 2018 13:46:16 allsitespider.py[line:117] INFO Abstract urls: 2.
+Wed, 06 Jun 2018 13:46:16 allsitespider.py[line:118] INFO Filter urls: 0.
+Wed, 06 Jun 2018 13:46:16 allsitespider.py[line:119] INFO Filter history urls: 0.
+Wed, 06 Jun 2018 13:46:16 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 13:46:16 allsitespider.py[line:121] INFO All urls: 3.
+Wed, 06 Jun 2018 13:46:16 allsitespider.py[line:122] INFO Time usage: 0:00:01.921233
+Wed, 06 Jun 2018 13:46:16 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 13:46:16 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 13:46:16 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 13:46:16 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 13:46:16 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 13:47:43 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 13:47:43 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 13:47:44 allsitespider.py[line:289] INFO Current url amount 2 > 1, stop parse urls.
+Wed, 06 Jun 2018 13:47:45 allsitespider.py[line:114] INFO Request num: 3.
+Wed, 06 Jun 2018 13:47:45 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 13:47:45 allsitespider.py[line:116] INFO Response num: 4.
+Wed, 06 Jun 2018 13:47:45 allsitespider.py[line:117] INFO Abstract urls: 2.
+Wed, 06 Jun 2018 13:47:45 allsitespider.py[line:118] INFO Filter urls: 0.
+Wed, 06 Jun 2018 13:47:45 allsitespider.py[line:119] INFO Filter history urls: 0.
+Wed, 06 Jun 2018 13:47:45 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 13:47:45 allsitespider.py[line:121] INFO All urls: 3.
+Wed, 06 Jun 2018 13:47:45 allsitespider.py[line:122] INFO Time usage: 0:00:01.590505
+Wed, 06 Jun 2018 13:47:45 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 13:47:45 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 13:47:45 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 13:47:45 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 13:47:45 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 13:47:46 test_common.py[line:44] INFO The count for crawler_urls is 4 
+Wed, 06 Jun 2018 13:47:46 test_tamper.py[line:153] INFO [] 0
+Wed, 06 Jun 2018 13:47:46 test_common.py[line:44] INFO The count for res_tamper is 0 
+Wed, 06 Jun 2018 13:48:06 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 13:48:06 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 13:48:07 allsitespider.py[line:289] INFO Current url amount 2 > 1, stop parse urls.
+Wed, 06 Jun 2018 13:48:08 allsitespider.py[line:114] INFO Request num: 3.
+Wed, 06 Jun 2018 13:48:08 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 13:48:08 allsitespider.py[line:116] INFO Response num: 4.
+Wed, 06 Jun 2018 13:48:08 allsitespider.py[line:117] INFO Abstract urls: 2.
+Wed, 06 Jun 2018 13:48:08 allsitespider.py[line:118] INFO Filter urls: 0.
+Wed, 06 Jun 2018 13:48:08 allsitespider.py[line:119] INFO Filter history urls: 0.
+Wed, 06 Jun 2018 13:48:08 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 13:48:08 allsitespider.py[line:121] INFO All urls: 3.
+Wed, 06 Jun 2018 13:48:08 allsitespider.py[line:122] INFO Time usage: 0:00:01.566645
+Wed, 06 Jun 2018 13:48:08 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 13:48:08 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 13:48:08 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 13:48:08 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 13:48:08 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 13:48:09 test_common.py[line:44] INFO The count for crawler_urls is 4 
+Wed, 06 Jun 2018 13:48:09 test_tamper.py[line:153] INFO [] 0
+Wed, 06 Jun 2018 13:48:09 test_common.py[line:44] INFO The count for res_tamper is 0 
+Wed, 06 Jun 2018 13:48:27 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 13:48:27 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 13:48:27 allsitespider.py[line:289] INFO Current url amount 2 > 1, stop parse urls.
+Wed, 06 Jun 2018 13:48:28 allsitespider.py[line:114] INFO Request num: 3.
+Wed, 06 Jun 2018 13:48:28 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 13:48:28 allsitespider.py[line:116] INFO Response num: 4.
+Wed, 06 Jun 2018 13:48:28 allsitespider.py[line:117] INFO Abstract urls: 2.
+Wed, 06 Jun 2018 13:48:28 allsitespider.py[line:118] INFO Filter urls: 0.
+Wed, 06 Jun 2018 13:48:28 allsitespider.py[line:119] INFO Filter history urls: 0.
+Wed, 06 Jun 2018 13:48:28 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 13:48:28 allsitespider.py[line:121] INFO All urls: 3.
+Wed, 06 Jun 2018 13:48:28 allsitespider.py[line:122] INFO Time usage: 0:00:01.664927
+Wed, 06 Jun 2018 13:48:28 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 13:48:28 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 13:48:28 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 13:48:28 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 13:48:28 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 13:48:30 test_common.py[line:44] INFO The count for crawler_urls is 4 
+Wed, 06 Jun 2018 13:48:30 test_tamper.py[line:153] INFO [] 0
+Wed, 06 Jun 2018 13:48:30 test_common.py[line:44] INFO The count for res_tamper is 0 
+Wed, 06 Jun 2018 13:49:59 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 13:49:59 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 13:50:00 allsitespider.py[line:289] INFO Current url amount 2 > 1, stop parse urls.
+Wed, 06 Jun 2018 13:50:01 allsitespider.py[line:114] INFO Request num: 3.
+Wed, 06 Jun 2018 13:50:01 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 13:50:01 allsitespider.py[line:116] INFO Response num: 4.
+Wed, 06 Jun 2018 13:50:01 allsitespider.py[line:117] INFO Abstract urls: 2.
+Wed, 06 Jun 2018 13:50:01 allsitespider.py[line:118] INFO Filter urls: 0.
+Wed, 06 Jun 2018 13:50:01 allsitespider.py[line:119] INFO Filter history urls: 0.
+Wed, 06 Jun 2018 13:50:01 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 13:50:01 allsitespider.py[line:121] INFO All urls: 3.
+Wed, 06 Jun 2018 13:50:01 allsitespider.py[line:122] INFO Time usage: 0:00:01.820996
+Wed, 06 Jun 2018 13:50:01 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 13:50:01 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 13:50:01 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 13:50:01 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 13:50:01 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 13:50:02 test_common.py[line:44] INFO The count for crawler_urls is 4 
+Wed, 06 Jun 2018 13:50:02 test_tamper.py[line:153] INFO [] 0
+Wed, 06 Jun 2018 13:50:02 test_common.py[line:44] INFO The count for res_tamper is 0 
+Wed, 06 Jun 2018 15:24:00 test_common.py[line:28] INFO The database set already .
+Wed, 06 Jun 2018 17:13:41 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:13:41 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:13:42 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:13:43 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:13:43 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:13:43 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:13:43 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:13:43 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:13:43 allsitespider.py[line:119] INFO Filter history urls: 3.
+Wed, 06 Jun 2018 17:13:43 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:13:43 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:13:43 allsitespider.py[line:122] INFO Time usage: 0:00:02.632123
+Wed, 06 Jun 2018 17:13:43 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:13:43 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:13:43 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:13:43 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:13:43 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:13:48 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:13:48 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:13:50 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:13:51 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:13:51 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:13:51 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:13:51 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:13:51 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:13:51 allsitespider.py[line:119] INFO Filter history urls: 3.
+Wed, 06 Jun 2018 17:13:51 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:13:51 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:13:51 allsitespider.py[line:122] INFO Time usage: 0:00:02.335614
+Wed, 06 Jun 2018 17:13:51 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:13:51 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:13:51 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:13:51 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:13:51 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:14:09 test_common.py[line:28] INFO The database set already .
+Wed, 06 Jun 2018 17:14:18 test_common.py[line:28] INFO The database set already .
+Wed, 06 Jun 2018 17:14:52 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:14:52 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:14:53 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:14:54 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:14:54 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:14:54 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:14:54 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:14:54 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:14:54 allsitespider.py[line:119] INFO Filter history urls: 3.
+Wed, 06 Jun 2018 17:14:54 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:14:54 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:14:54 allsitespider.py[line:122] INFO Time usage: 0:00:02.645287
+Wed, 06 Jun 2018 17:14:54 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:14:54 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:14:54 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:14:54 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:14:54 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:15:34 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:15:34 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:16:01 connectionpool.py[line:663] WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='jobs.dell.com', port=443): Read timed out. (read timeout=5)",)': /rsa
+Wed, 06 Jun 2018 17:16:08 connectionpool.py[line:663] WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='jobs.dell.com', port=443): Read timed out. (read timeout=5)",)': /rsa
+Wed, 06 Jun 2018 17:16:18 connectionpool.py[line:663] WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.dell.com', port=443): Read timed out. (read timeout=5)",)': /Identity/global/LoginOrRegister/ffe8cec9-6142-430d-a90a-88bf736701e3?feir=1
+Wed, 06 Jun 2018 17:16:23 connectionpool.py[line:663] WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.dell.com', port=443): Read timed out. (read timeout=5)",)': /Identity/global/LoginOrRegister/ffe8cec9-6142-430d-a90a-88bf736701e3?feir=1
+Wed, 06 Jun 2018 17:16:29 allsitespider.py[line:220] ERROR Download html error: HTTPSConnectionPool(host='www.dell.com', port=443): Max retries exceeded with url: /Identity/global/LoginOrRegister/ffe8cec9-6142-430d-a90a-88bf736701e3?feir=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.dell.com', port=443): Read timed out. (read timeout=5)",))
+Wed, 06 Jun 2018 17:16:29 allsitespider.py[line:221] ERROR Error url info: {'base_url': 'http://www.rsa.com:80/rsalabs/node.asp?id=2125', 'depth': 5, 'url': 'https://sso.emc.com:443/sso/login.htm?CTAuthMode=BASIC&siteLocale=en_US', 'domain': 'sso.emc.com:443', 'end_type': 'PC', 'method': 'GET', 'data': None}
+Wed, 06 Jun 2018 17:16:41 connectionpool.py[line:663] WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f64c993fb00>, 'Connection to twitter.com timed out. (connect timeout=5)')': /RSAsecurity
+Wed, 06 Jun 2018 17:16:46 connectionpool.py[line:663] WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f64c993fb38>, 'Connection to twitter.com timed out. (connect timeout=5)')': /RSAsecurity
+Wed, 06 Jun 2018 17:16:51 allsitespider.py[line:220] ERROR Download html error: HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /RSAsecurity (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f64c993fcc0>, 'Connection to twitter.com timed out. (connect timeout=5)'))
+Wed, 06 Jun 2018 17:16:51 allsitespider.py[line:221] ERROR Error url info: {'base_url': 'http://www.rsa.com:80/rsalabs/node.asp?id=2125', 'depth': 5, 'url': 'https://twitter.com:443/RSAsecurity', 'domain': 'twitter.com:443', 'end_type': 'PC', 'method': 'GET', 'data': None}
+Wed, 06 Jun 2018 17:16:56 connectionpool.py[line:663] WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f64c9937208>: Failed to establish a new connection: [Errno 101] Network is unreachable',)': /user/SecuredByRSA
+Wed, 06 Jun 2018 17:17:01 connectionpool.py[line:663] WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f64c993fda0>, 'Connection to www.youtube.com timed out. (connect timeout=5)')': /user/SecuredByRSA
+Wed, 06 Jun 2018 17:17:06 allsitespider.py[line:220] ERROR Download html error: HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /user/SecuredByRSA (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f64c993fc18>, 'Connection to www.youtube.com timed out. (connect timeout=5)'))
+Wed, 06 Jun 2018 17:17:06 allsitespider.py[line:221] ERROR Error url info: {'base_url': 'http://www.rsa.com:80/rsalabs/node.asp?id=2125', 'depth': 5, 'url': 'https://www.youtube.com:443/user/SecuredByRSA', 'domain': 'www.youtube.com:443', 'end_type': 'PC', 'method': 'GET', 'data': None}
+Wed, 06 Jun 2018 17:18:03 test_common.py[line:28] INFO The database set already .
+Wed, 06 Jun 2018 17:18:33 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:18:33 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:18:35 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:18:36 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:18:36 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:18:36 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:18:36 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:18:36 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:18:36 allsitespider.py[line:119] INFO Filter history urls: 3.
+Wed, 06 Jun 2018 17:18:36 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:18:36 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:18:36 allsitespider.py[line:122] INFO Time usage: 0:00:02.450698
+Wed, 06 Jun 2018 17:18:36 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:18:36 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:18:36 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:18:36 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:18:36 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:18:48 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:18:48 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:18:49 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:18:50 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:18:50 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:18:50 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:18:50 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:18:50 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:18:50 allsitespider.py[line:119] INFO Filter history urls: 3.
+Wed, 06 Jun 2018 17:18:50 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:18:50 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:18:50 allsitespider.py[line:122] INFO Time usage: 0:00:02.270314
+Wed, 06 Jun 2018 17:18:50 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:18:50 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:18:50 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:18:50 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:18:50 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:18:51 test_common.py[line:44] INFO The count for crawler_urls is 0 
+Wed, 06 Jun 2018 17:18:51 test_tamper.py[line:153] INFO [] 0
+Wed, 06 Jun 2018 17:18:51 test_common.py[line:44] INFO The count for res_tamper is 0 
+Wed, 06 Jun 2018 17:19:19 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:19:19 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:19:20 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:19:21 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:19:21 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:19:21 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:19:21 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:19:21 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:19:21 allsitespider.py[line:119] INFO Filter history urls: 3.
+Wed, 06 Jun 2018 17:19:21 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:19:21 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:19:21 allsitespider.py[line:122] INFO Time usage: 0:00:02.289552
+Wed, 06 Jun 2018 17:19:21 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:19:21 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:19:21 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:19:21 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:19:21 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:19:26 test_common.py[line:28] INFO The database set already .
+Wed, 06 Jun 2018 17:19:45 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:19:45 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:19:46 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:19:47 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:19:47 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:19:47 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:19:47 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:19:47 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:19:47 allsitespider.py[line:119] INFO Filter history urls: 3.
+Wed, 06 Jun 2018 17:19:47 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:19:47 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:19:47 allsitespider.py[line:122] INFO Time usage: 0:00:02.281467
+Wed, 06 Jun 2018 17:19:47 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:19:47 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:19:48 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:19:48 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:19:48 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:20:20 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:20:20 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:20:22 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:20:23 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:20:23 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:20:23 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:20:23 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:20:23 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:20:23 allsitespider.py[line:119] INFO Filter history urls: 3.
+Wed, 06 Jun 2018 17:20:23 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:20:23 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:20:23 allsitespider.py[line:122] INFO Time usage: 0:00:02.281203
+Wed, 06 Jun 2018 17:20:23 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:20:23 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:20:23 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:20:23 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:20:23 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:21:20 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:21:20 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:21:21 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:21:22 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:21:22 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:21:22 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:21:22 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:21:22 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:21:22 allsitespider.py[line:119] INFO Filter history urls: 1.
+Wed, 06 Jun 2018 17:21:22 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:21:22 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:21:22 allsitespider.py[line:122] INFO Time usage: 0:00:02.306954
+Wed, 06 Jun 2018 17:21:22 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:21:22 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:21:22 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:21:22 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:21:22 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:21:46 test_common.py[line:44] INFO The count for crawler_urls is 2 
+Wed, 06 Jun 2018 17:21:46 test_tamper.py[line:153] INFO [] 0
+Wed, 06 Jun 2018 17:21:46 test_common.py[line:44] INFO The count for res_tamper is 0 
+Wed, 06 Jun 2018 17:21:51 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:21:51 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:22:18 connectionpool.py[line:663] WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f75380463c8>, 'Connection to twitter.com timed out. (connect timeout=5)')': /RSAsecurity
+Wed, 06 Jun 2018 17:22:23 connectionpool.py[line:663] WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f7538046438>, 'Connection to twitter.com timed out. (connect timeout=5)')': /RSAsecurity
+Wed, 06 Jun 2018 17:22:28 allsitespider.py[line:220] ERROR Download html error: HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /RSAsecurity (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f75380465c0>, 'Connection to twitter.com timed out. (connect timeout=5)'))
+Wed, 06 Jun 2018 17:22:28 allsitespider.py[line:221] ERROR Error url info: {'base_url': 'http://www.rsa.com:80/rsalabs/node.asp?id=2125', 'depth': 5, 'url': 'https://twitter.com:443/RSAsecurity', 'domain': 'twitter.com:443', 'end_type': 'PC', 'method': 'GET', 'data': None}
+Wed, 06 Jun 2018 17:22:33 connectionpool.py[line:663] WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f75381b3128>: Failed to establish a new connection: [Errno 101] Network is unreachable',)': /user/SecuredByRSA
+Wed, 06 Jun 2018 17:22:38 connectionpool.py[line:663] WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f7538046668>: Failed to establish a new connection: [Errno 101] Network is unreachable',)': /user/SecuredByRSA
+Wed, 06 Jun 2018 17:22:43 allsitespider.py[line:220] ERROR Download html error: HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /user/SecuredByRSA (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f7533f09f98>: Failed to establish a new connection: [Errno 101] Network is unreachable',))
+Wed, 06 Jun 2018 17:22:43 allsitespider.py[line:221] ERROR Error url info: {'base_url': 'http://www.rsa.com:80/rsalabs/node.asp?id=2125', 'depth': 5, 'url': 'https://www.youtube.com:443/user/SecuredByRSA', 'domain': 'www.youtube.com:443', 'end_type': 'PC', 'method': 'GET', 'data': None}
+Wed, 06 Jun 2018 17:22:50 test_common.py[line:28] INFO The database set already .
+Wed, 06 Jun 2018 17:23:15 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:23:15 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:23:17 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:23:18 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:23:18 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:23:18 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:23:18 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:23:18 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:23:18 allsitespider.py[line:119] INFO Filter history urls: 1.
+Wed, 06 Jun 2018 17:23:18 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:23:18 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:23:18 allsitespider.py[line:122] INFO Time usage: 0:00:02.660016
+Wed, 06 Jun 2018 17:23:18 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:23:18 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:23:18 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:23:18 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:23:18 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:24:11 test_common.py[line:28] INFO The database set already .
+Wed, 06 Jun 2018 17:24:19 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:24:19 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:24:20 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:24:21 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:24:21 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:24:21 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:24:21 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:24:21 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:24:21 allsitespider.py[line:119] INFO Filter history urls: 1.
+Wed, 06 Jun 2018 17:24:21 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:24:21 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:24:21 allsitespider.py[line:122] INFO Time usage: 0:00:02.305319
+Wed, 06 Jun 2018 17:24:21 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:24:21 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:24:21 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:24:21 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:24:21 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:24:38 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:24:38 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:24:39 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:24:40 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:24:40 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:24:40 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:24:40 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:24:40 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:24:40 allsitespider.py[line:119] INFO Filter history urls: 1.
+Wed, 06 Jun 2018 17:24:40 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:24:40 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:24:40 allsitespider.py[line:122] INFO Time usage: 0:00:02.253024
+Wed, 06 Jun 2018 17:24:40 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:24:40 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:24:40 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:24:40 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:24:40 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:24:41 test_common.py[line:44] INFO The count for crawler_urls is 2 
+Wed, 06 Jun 2018 17:24:41 test_tamper.py[line:153] INFO [] 0
+Wed, 06 Jun 2018 17:24:41 test_common.py[line:44] INFO The count for res_tamper is 0 
+Wed, 06 Jun 2018 17:24:47 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:24:47 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:24:49 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:24:50 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:24:50 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:24:50 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:24:50 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:24:50 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:24:50 allsitespider.py[line:119] INFO Filter history urls: 1.
+Wed, 06 Jun 2018 17:24:50 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:24:50 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:24:50 allsitespider.py[line:122] INFO Time usage: 0:00:02.319608
+Wed, 06 Jun 2018 17:24:50 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:24:50 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:24:50 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:24:50 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:24:50 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:24:51 test_common.py[line:44] INFO The count for crawler_urls is 2 
+Wed, 06 Jun 2018 17:24:51 test_tamper.py[line:153] INFO [] 0
+Wed, 06 Jun 2018 17:24:51 test_common.py[line:44] INFO The count for res_tamper is 0 
+Wed, 06 Jun 2018 17:24:57 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:24:57 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:24:58 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:24:59 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:24:59 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:24:59 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:24:59 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:24:59 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:24:59 allsitespider.py[line:119] INFO Filter history urls: 1.
+Wed, 06 Jun 2018 17:24:59 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:24:59 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:24:59 allsitespider.py[line:122] INFO Time usage: 0:00:02.320681
+Wed, 06 Jun 2018 17:24:59 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:24:59 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:24:59 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:24:59 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:24:59 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:25:00 test_common.py[line:44] INFO The count for crawler_urls is 2 
+Wed, 06 Jun 2018 17:25:00 test_tamper.py[line:153] INFO [] 0
+Wed, 06 Jun 2018 17:25:00 test_common.py[line:44] INFO The count for res_tamper is 0 
+Wed, 06 Jun 2018 17:25:45 test_common.py[line:28] INFO The database set already .
+Wed, 06 Jun 2018 17:25:53 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:25:53 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:25:55 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:25:56 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:25:56 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:25:56 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:25:56 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:25:56 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:25:56 allsitespider.py[line:119] INFO Filter history urls: 1.
+Wed, 06 Jun 2018 17:25:56 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:25:56 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:25:56 allsitespider.py[line:122] INFO Time usage: 0:00:02.438681
+Wed, 06 Jun 2018 17:25:56 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:25:56 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:25:56 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:25:56 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:25:56 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:26:09 test_common.py[line:28] INFO The database set already .
+Wed, 06 Jun 2018 17:26:19 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:26:19 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:26:21 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:26:22 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:26:22 allsitespider.py[line:115] INFO History num: 2.
+Wed, 06 Jun 2018 17:26:22 allsitespider.py[line:116] INFO Response num: 3.
+Wed, 06 Jun 2018 17:26:22 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:26:22 allsitespider.py[line:118] INFO Filter urls: 9.
+Wed, 06 Jun 2018 17:26:22 allsitespider.py[line:119] INFO Filter history urls: 1.
+Wed, 06 Jun 2018 17:26:22 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:26:22 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:26:22 allsitespider.py[line:122] INFO Time usage: 0:00:02.280275
+Wed, 06 Jun 2018 17:26:22 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:26:22 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:26:22 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:26:22 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:26:22 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:29:29 test_common.py[line:28] INFO The database set already .
+Wed, 06 Jun 2018 17:29:36 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:29:36 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:29:37 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:29:38 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:29:38 allsitespider.py[line:115] INFO History num: 0.
+Wed, 06 Jun 2018 17:29:38 allsitespider.py[line:116] INFO Response num: 1.
+Wed, 06 Jun 2018 17:29:38 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:29:38 allsitespider.py[line:118] INFO Filter urls: 0.
+Wed, 06 Jun 2018 17:29:38 allsitespider.py[line:119] INFO Filter history urls: 1.
+Wed, 06 Jun 2018 17:29:38 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:29:38 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:29:38 allsitespider.py[line:122] INFO Time usage: 0:00:02.174249
+Wed, 06 Jun 2018 17:29:38 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:29:38 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:29:38 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:29:39 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:29:39 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:30:21 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:30:21 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:30:22 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:30:23 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:30:23 allsitespider.py[line:115] INFO History num: 0.
+Wed, 06 Jun 2018 17:30:23 allsitespider.py[line:116] INFO Response num: 1.
+Wed, 06 Jun 2018 17:30:23 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:30:23 allsitespider.py[line:118] INFO Filter urls: 0.
+Wed, 06 Jun 2018 17:30:23 allsitespider.py[line:119] INFO Filter history urls: 0.
+Wed, 06 Jun 2018 17:30:23 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:30:23 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:30:23 allsitespider.py[line:122] INFO Time usage: 0:00:02.209707
+Wed, 06 Jun 2018 17:30:23 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:30:23 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:30:23 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:30:23 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:30:23 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:41:29 test_common.py[line:28] INFO The database set already .
+Wed, 06 Jun 2018 17:41:40 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:41:40 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:41:41 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:41:42 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:41:42 allsitespider.py[line:115] INFO History num: 0.
+Wed, 06 Jun 2018 17:41:42 allsitespider.py[line:116] INFO Response num: 1.
+Wed, 06 Jun 2018 17:41:42 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:41:42 allsitespider.py[line:118] INFO Filter urls: 0.
+Wed, 06 Jun 2018 17:41:42 allsitespider.py[line:119] INFO Filter history urls: 1.
+Wed, 06 Jun 2018 17:41:42 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:41:42 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:41:42 allsitespider.py[line:122] INFO Time usage: 0:00:02.164933
+Wed, 06 Jun 2018 17:41:42 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:41:42 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:41:42 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:41:42 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:41:42 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:42:16 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:42:16 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:42:18 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:42:19 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:42:19 allsitespider.py[line:115] INFO History num: 0.
+Wed, 06 Jun 2018 17:42:19 allsitespider.py[line:116] INFO Response num: 1.
+Wed, 06 Jun 2018 17:42:19 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:42:19 allsitespider.py[line:118] INFO Filter urls: 0.
+Wed, 06 Jun 2018 17:42:19 allsitespider.py[line:119] INFO Filter history urls: 0.
+Wed, 06 Jun 2018 17:42:19 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:42:19 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:42:19 allsitespider.py[line:122] INFO Time usage: 0:00:02.387889
+Wed, 06 Jun 2018 17:42:19 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:42:19 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:42:19 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:42:19 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:42:19 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:42:34 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:42:34 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:42:35 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:42:36 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:42:36 allsitespider.py[line:115] INFO History num: 0.
+Wed, 06 Jun 2018 17:42:36 allsitespider.py[line:116] INFO Response num: 1.
+Wed, 06 Jun 2018 17:42:36 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:42:36 allsitespider.py[line:118] INFO Filter urls: 0.
+Wed, 06 Jun 2018 17:42:36 allsitespider.py[line:119] INFO Filter history urls: 0.
+Wed, 06 Jun 2018 17:42:36 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:42:36 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:42:36 allsitespider.py[line:122] INFO Time usage: 0:00:02.243108
+Wed, 06 Jun 2018 17:42:36 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:42:36 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:42:36 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:42:37 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:42:37 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:44:26 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:44:26 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:44:27 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:44:28 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:44:28 allsitespider.py[line:115] INFO History num: 0.
+Wed, 06 Jun 2018 17:44:28 allsitespider.py[line:116] INFO Response num: 1.
+Wed, 06 Jun 2018 17:44:28 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:44:28 allsitespider.py[line:118] INFO Filter urls: 0.
+Wed, 06 Jun 2018 17:44:28 allsitespider.py[line:119] INFO Filter history urls: 0.
+Wed, 06 Jun 2018 17:44:28 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:44:28 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:44:28 allsitespider.py[line:122] INFO Time usage: 0:00:02.416448
+Wed, 06 Jun 2018 17:44:28 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:44:28 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:44:28 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:44:28 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:44:28 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:48:07 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:48:07 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:48:08 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:48:09 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:48:09 allsitespider.py[line:115] INFO History num: 0.
+Wed, 06 Jun 2018 17:48:09 allsitespider.py[line:116] INFO Response num: 1.
+Wed, 06 Jun 2018 17:48:09 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:48:09 allsitespider.py[line:118] INFO Filter urls: 0.
+Wed, 06 Jun 2018 17:48:09 allsitespider.py[line:119] INFO Filter history urls: 0.
+Wed, 06 Jun 2018 17:48:09 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:48:09 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:48:09 allsitespider.py[line:122] INFO Time usage: 0:00:02.235953
+Wed, 06 Jun 2018 17:48:09 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:48:09 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:48:09 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:48:09 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:48:09 test_crawel.py[line:48] INFO The clean_wash is completed.
+Wed, 06 Jun 2018 17:50:48 allsitespider.py[line:93] INFO Spider start crawl.
+Wed, 06 Jun 2018 17:50:48 allsitespider.py[line:95] INFO Init first task.
+Wed, 06 Jun 2018 17:50:50 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Wed, 06 Jun 2018 17:50:51 allsitespider.py[line:114] INFO Request num: 1.
+Wed, 06 Jun 2018 17:50:51 allsitespider.py[line:115] INFO History num: 0.
+Wed, 06 Jun 2018 17:50:51 allsitespider.py[line:116] INFO Response num: 1.
+Wed, 06 Jun 2018 17:50:51 allsitespider.py[line:117] INFO Abstract urls: 0.
+Wed, 06 Jun 2018 17:50:51 allsitespider.py[line:118] INFO Filter urls: 0.
+Wed, 06 Jun 2018 17:50:51 allsitespider.py[line:119] INFO Filter history urls: 0.
+Wed, 06 Jun 2018 17:50:51 allsitespider.py[line:120] INFO Error urls: 0.
+Wed, 06 Jun 2018 17:50:51 allsitespider.py[line:121] INFO All urls: 1.
+Wed, 06 Jun 2018 17:50:51 allsitespider.py[line:122] INFO Time usage: 0:00:02.252580
+Wed, 06 Jun 2018 17:50:51 allsitespider.py[line:123] INFO Spider closed.
+Wed, 06 Jun 2018 17:50:51 test_crawel.py[line:40] INFO The crawl_all is completed.
+Wed, 06 Jun 2018 17:50:51 cleanwash.py[line:20] INFO Start to clean wash...
+Wed, 06 Jun 2018 17:50:51 cleanwash.py[line:26] INFO Clean wash over!
+Wed, 06 Jun 2018 17:50:51 test_crawel.py[line:48] INFO The clean_wash is completed.
+Thu, 07 Jun 2018 09:17:11 test_common.py[line:28] INFO The database set already .
+Thu, 07 Jun 2018 11:13:38 allsitespider.py[line:93] INFO Spider start crawl.
+Thu, 07 Jun 2018 11:13:38 allsitespider.py[line:95] INFO Init first task.
+Thu, 07 Jun 2018 11:13:38 allsitespider.py[line:220] ERROR Download html error: Invalid URL 'None': No schema supplied. Perhaps you meant http://None?
+Thu, 07 Jun 2018 11:13:38 allsitespider.py[line:221] ERROR Error url info: {}
+Thu, 07 Jun 2018 11:13:39 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Thu, 07 Jun 2018 11:13:40 allsitespider.py[line:114] INFO Request num: 1.
+Thu, 07 Jun 2018 11:13:40 allsitespider.py[line:115] INFO History num: 0.
+Thu, 07 Jun 2018 11:13:40 allsitespider.py[line:116] INFO Response num: 0.
+Thu, 07 Jun 2018 11:13:40 allsitespider.py[line:117] INFO Abstract urls: 0.
+Thu, 07 Jun 2018 11:13:40 allsitespider.py[line:118] INFO Filter urls: 0.
+Thu, 07 Jun 2018 11:13:40 allsitespider.py[line:119] INFO Filter history urls: 0.
+Thu, 07 Jun 2018 11:13:40 allsitespider.py[line:120] INFO Error urls: 1.
+Thu, 07 Jun 2018 11:13:40 allsitespider.py[line:121] INFO All urls: 1.
+Thu, 07 Jun 2018 11:13:40 allsitespider.py[line:122] INFO Time usage: 0:00:02.006868
+Thu, 07 Jun 2018 11:13:40 allsitespider.py[line:123] INFO Spider closed.
+Thu, 07 Jun 2018 11:13:40 test_crawel.py[line:40] INFO The crawl_all is completed.
+Thu, 07 Jun 2018 11:13:41 cleanwash.py[line:20] INFO Start to clean wash...
+Thu, 07 Jun 2018 11:14:11 cleanwash.py[line:25] ERROR Error: 127.0.0.1:27017: [Errno 111] Connection refused
+Thu, 07 Jun 2018 11:14:11 cleanwash.py[line:26] INFO Clean wash over!
+Thu, 07 Jun 2018 11:14:11 test_crawel.py[line:48] INFO The clean_wash is completed.
+Thu, 07 Jun 2018 11:14:32 test_common.py[line:28] INFO The database set already .
+Thu, 07 Jun 2018 11:14:40 test_common.py[line:28] INFO The database set already .
+Thu, 07 Jun 2018 11:14:53 allsitespider.py[line:93] INFO Spider start crawl.
+Thu, 07 Jun 2018 11:14:53 allsitespider.py[line:95] INFO Init first task.
+Thu, 07 Jun 2018 11:14:53 allsitespider.py[line:220] ERROR Download html error: Invalid URL 'None': No schema supplied. Perhaps you meant http://None?
+Thu, 07 Jun 2018 11:14:53 allsitespider.py[line:221] ERROR Error url info: {}
+Thu, 07 Jun 2018 11:14:54 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Thu, 07 Jun 2018 11:14:55 allsitespider.py[line:114] INFO Request num: 1.
+Thu, 07 Jun 2018 11:14:55 allsitespider.py[line:115] INFO History num: 0.
+Thu, 07 Jun 2018 11:14:55 allsitespider.py[line:116] INFO Response num: 0.
+Thu, 07 Jun 2018 11:14:55 allsitespider.py[line:117] INFO Abstract urls: 0.
+Thu, 07 Jun 2018 11:14:55 allsitespider.py[line:118] INFO Filter urls: 0.
+Thu, 07 Jun 2018 11:14:55 allsitespider.py[line:119] INFO Filter history urls: 0.
+Thu, 07 Jun 2018 11:14:55 allsitespider.py[line:120] INFO Error urls: 1.
+Thu, 07 Jun 2018 11:14:55 allsitespider.py[line:121] INFO All urls: 1.
+Thu, 07 Jun 2018 11:14:55 allsitespider.py[line:122] INFO Time usage: 0:00:02.007123
+Thu, 07 Jun 2018 11:14:55 allsitespider.py[line:123] INFO Spider closed.
+Thu, 07 Jun 2018 11:14:55 test_crawel.py[line:40] INFO The crawl_all is completed.
+Thu, 07 Jun 2018 11:14:55 cleanwash.py[line:20] INFO Start to clean wash...
+Thu, 07 Jun 2018 11:14:56 cleanwash.py[line:26] INFO Clean wash over!
+Thu, 07 Jun 2018 11:14:56 test_crawel.py[line:48] INFO The clean_wash is completed.
+Thu, 07 Jun 2018 11:17:50 allsitespider.py[line:93] INFO Spider start crawl.
+Thu, 07 Jun 2018 11:17:50 allsitespider.py[line:95] INFO Init first task.
+Thu, 07 Jun 2018 11:17:50 allsitespider.py[line:220] ERROR Download html error: Invalid URL 'None': No schema supplied. Perhaps you meant http://None?
+Thu, 07 Jun 2018 11:17:50 allsitespider.py[line:221] ERROR Error url info: {}
+Thu, 07 Jun 2018 11:17:51 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Thu, 07 Jun 2018 11:17:52 allsitespider.py[line:114] INFO Request num: 1.
+Thu, 07 Jun 2018 11:17:52 allsitespider.py[line:115] INFO History num: 0.
+Thu, 07 Jun 2018 11:17:52 allsitespider.py[line:116] INFO Response num: 0.
+Thu, 07 Jun 2018 11:17:52 allsitespider.py[line:117] INFO Abstract urls: 0.
+Thu, 07 Jun 2018 11:17:52 allsitespider.py[line:118] INFO Filter urls: 0.
+Thu, 07 Jun 2018 11:17:52 allsitespider.py[line:119] INFO Filter history urls: 0.
+Thu, 07 Jun 2018 11:17:52 allsitespider.py[line:120] INFO Error urls: 1.
+Thu, 07 Jun 2018 11:17:52 allsitespider.py[line:121] INFO All urls: 1.
+Thu, 07 Jun 2018 11:17:52 allsitespider.py[line:122] INFO Time usage: 0:00:02.008922
+Thu, 07 Jun 2018 11:17:52 allsitespider.py[line:123] INFO Spider closed.
+Thu, 07 Jun 2018 11:17:52 test_crawel.py[line:40] INFO The crawl_all is completed.
+Thu, 07 Jun 2018 11:17:52 cleanwash.py[line:20] INFO Start to clean wash...
+Thu, 07 Jun 2018 11:17:52 cleanwash.py[line:26] INFO Clean wash over!
+Thu, 07 Jun 2018 11:17:52 test_crawel.py[line:48] INFO The clean_wash is completed.
+Thu, 07 Jun 2018 11:18:37 allsitespider.py[line:93] INFO Spider start crawl.
+Thu, 07 Jun 2018 11:18:37 allsitespider.py[line:95] INFO Init first task.
+Thu, 07 Jun 2018 11:18:52 allsitespider.py[line:289] INFO Current url amount 501 > 500, stop parse urls.
+Thu, 07 Jun 2018 11:19:05 allsitespider.py[line:218] WARNING Content length > 1M, url: http://downpack.baidu.com:80/baidunews_AndroidPhone_1014720b.apk
+Thu, 07 Jun 2018 11:19:46 allsitespider.py[line:447] ERROR Save data to mongodb error: HTTPConnectionPool(host='game.hao123.com', port=80): Read timed out.
+Thu, 07 Jun 2018 11:19:46 allsitespider.py[line:448] ERROR Error url info: {'base_url': 'https://www.hao123.com:443', 'depth': 3, 'url': 'http://game.hao123.com:80', 'domain': 'game.hao123.com:80', 'end_type': 'PC', 'method': 'GET', 'data': None}
+Thu, 07 Jun 2018 11:19:55 allsitespider.py[line:220] ERROR Download html error: HTTPConnectionPool(host='www.bj.cyberpolice.cn', port=80): Max retries exceeded with url: /index.jsp (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff8c5293dd8>, 'Connection to www.bj.cyberpolice.cn timed out. (connect timeout=5)'))
+Thu, 07 Jun 2018 11:19:55 allsitespider.py[line:221] ERROR Error url info: {'base_url': 'https://www.hao123.com:443', 'depth': 3, 'url': 'http://www.bj.cyberpolice.cn:80/index.jsp', 'domain': 'www.bj.cyberpolice.cn:80', 'end_type': 'PC', 'method': 'GET', 'data': None}
+Thu, 07 Jun 2018 11:20:01 allsitespider.py[line:220] ERROR Download html error: HTTPConnectionPool(host='news.baidu.com', port=80): Read timed out. (read timeout=5)
+Thu, 07 Jun 2018 11:20:01 allsitespider.py[line:221] ERROR Error url info: {'base_url': 'http://tieba.baidu.com:80', 'depth': 3, 'url': 'http://news.baidu.com:80/ns?cl=2&rn=20&tn=news&', 'domain': 'news.baidu.com:80', 'end_type': 'PC', 'method': 'GET', 'data': None}
+Thu, 07 Jun 2018 11:20:20 allsitespider.py[line:220] ERROR Download html error: HTTPConnectionPool(host='www.bj.cyberpolice.cn', port=80): Max retries exceeded with url: /index.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff8c5010208>, 'Connection to www.bj.cyberpolice.cn timed out. (connect timeout=5)'))
+Thu, 07 Jun 2018 11:20:20 allsitespider.py[line:221] ERROR Error url info: {'base_url': 'http://tieba.baidu.com:80', 'depth': 3, 'url': 'http://www.bj.cyberpolice.cn:80/index.htm', 'domain': 'www.bj.cyberpolice.cn:80', 'end_type': 'PC', 'method': 'GET', 'data': None}
+Thu, 07 Jun 2018 11:20:32 connectionpool.py[line:663] WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='zhuomian.baidu.com', port=443): Read timed out. (read timeout=5)",)': /
+Thu, 07 Jun 2018 11:21:11 allsitespider.py[line:114] INFO Request num: 502.
+Thu, 07 Jun 2018 11:21:11 allsitespider.py[line:115] INFO History num: 183.
+Thu, 07 Jun 2018 11:21:11 allsitespider.py[line:116] INFO Response num: 677.
+Thu, 07 Jun 2018 11:21:11 allsitespider.py[line:117] INFO Abstract urls: 501.
+Thu, 07 Jun 2018 11:21:11 allsitespider.py[line:118] INFO Filter urls: 350.
+Thu, 07 Jun 2018 11:21:11 allsitespider.py[line:119] INFO Filter history urls: 14.
+Thu, 07 Jun 2018 11:21:11 allsitespider.py[line:120] INFO Error urls: 4.
+Thu, 07 Jun 2018 11:21:11 allsitespider.py[line:121] INFO All urls: 502.
+Thu, 07 Jun 2018 11:21:11 allsitespider.py[line:122] INFO Time usage: 0:02:33.077912
+Thu, 07 Jun 2018 11:21:11 allsitespider.py[line:123] INFO Spider closed.
+Thu, 07 Jun 2018 11:21:11 test_crawel.py[line:40] INFO The crawl_all is completed.
+Thu, 07 Jun 2018 11:21:11 cleanwash.py[line:20] INFO Start to clean wash...
+Thu, 07 Jun 2018 11:22:11 allsitespider.py[line:93] INFO Spider start crawl.
+Thu, 07 Jun 2018 11:22:11 allsitespider.py[line:95] INFO Init first task.
+Thu, 07 Jun 2018 11:22:17 test_common.py[line:28] INFO The database set already .
+Thu, 07 Jun 2018 11:22:30 allsitespider.py[line:93] INFO Spider start crawl.
+Thu, 07 Jun 2018 11:22:30 allsitespider.py[line:95] INFO Init first task.
+Thu, 07 Jun 2018 11:22:31 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Thu, 07 Jun 2018 11:22:32 allsitespider.py[line:114] INFO Request num: 1.
+Thu, 07 Jun 2018 11:22:32 allsitespider.py[line:115] INFO History num: 0.
+Thu, 07 Jun 2018 11:22:32 allsitespider.py[line:116] INFO Response num: 0.
+Thu, 07 Jun 2018 11:22:32 allsitespider.py[line:117] INFO Abstract urls: 0.
+Thu, 07 Jun 2018 11:22:32 allsitespider.py[line:118] INFO Filter urls: 0.
+Thu, 07 Jun 2018 11:22:32 allsitespider.py[line:119] INFO Filter history urls: 0.
+Thu, 07 Jun 2018 11:22:32 allsitespider.py[line:120] INFO Error urls: 0.
+Thu, 07 Jun 2018 11:22:32 allsitespider.py[line:121] INFO All urls: 1.
+Thu, 07 Jun 2018 11:22:32 allsitespider.py[line:122] INFO Time usage: 0:00:02.173363
+Thu, 07 Jun 2018 11:22:32 allsitespider.py[line:123] INFO Spider closed.
+Thu, 07 Jun 2018 11:22:32 test_crawel.py[line:40] INFO The crawl_all is completed.
+Thu, 07 Jun 2018 11:22:32 cleanwash.py[line:20] INFO Start to clean wash...
+Thu, 07 Jun 2018 11:22:32 cleanwash.py[line:26] INFO Clean wash over!
+Thu, 07 Jun 2018 11:22:32 test_crawel.py[line:48] INFO The clean_wash is completed.
+Thu, 07 Jun 2018 11:25:04 allsitespider.py[line:93] INFO Spider start crawl.
+Thu, 07 Jun 2018 11:25:04 allsitespider.py[line:95] INFO Init first task.
+Thu, 07 Jun 2018 11:25:05 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Thu, 07 Jun 2018 11:25:06 allsitespider.py[line:114] INFO Request num: 1.
+Thu, 07 Jun 2018 11:25:06 allsitespider.py[line:115] INFO History num: 0.
+Thu, 07 Jun 2018 11:25:06 allsitespider.py[line:116] INFO Response num: 0.
+Thu, 07 Jun 2018 11:25:06 allsitespider.py[line:117] INFO Abstract urls: 0.
+Thu, 07 Jun 2018 11:25:06 allsitespider.py[line:118] INFO Filter urls: 0.
+Thu, 07 Jun 2018 11:25:06 allsitespider.py[line:119] INFO Filter history urls: 0.
+Thu, 07 Jun 2018 11:25:06 allsitespider.py[line:120] INFO Error urls: 0.
+Thu, 07 Jun 2018 11:25:06 allsitespider.py[line:121] INFO All urls: 1.
+Thu, 07 Jun 2018 11:25:06 allsitespider.py[line:122] INFO Time usage: 0:00:02.167908
+Thu, 07 Jun 2018 11:25:06 allsitespider.py[line:123] INFO Spider closed.
+Thu, 07 Jun 2018 11:25:06 test_crawel.py[line:40] INFO The crawl_all is completed.
+Thu, 07 Jun 2018 11:25:06 cleanwash.py[line:20] INFO Start to clean wash...
+Thu, 07 Jun 2018 11:25:06 cleanwash.py[line:26] INFO Clean wash over!
+Thu, 07 Jun 2018 11:25:06 test_crawel.py[line:48] INFO The clean_wash is completed.
+Thu, 07 Jun 2018 13:08:38 test_common.py[line:28] INFO The database set already .
+Thu, 07 Jun 2018 13:09:05 allsitespider.py[line:93] INFO Spider start crawl.
+Thu, 07 Jun 2018 13:09:05 allsitespider.py[line:95] INFO Init first task.
+Thu, 07 Jun 2018 13:09:06 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Thu, 07 Jun 2018 13:09:07 allsitespider.py[line:114] INFO Request num: 1.
+Thu, 07 Jun 2018 13:09:07 allsitespider.py[line:115] INFO History num: 0.
+Thu, 07 Jun 2018 13:09:07 allsitespider.py[line:116] INFO Response num: 0.
+Thu, 07 Jun 2018 13:09:07 allsitespider.py[line:117] INFO Abstract urls: 0.
+Thu, 07 Jun 2018 13:09:07 allsitespider.py[line:118] INFO Filter urls: 0.
+Thu, 07 Jun 2018 13:09:07 allsitespider.py[line:119] INFO Filter history urls: 0.
+Thu, 07 Jun 2018 13:09:07 allsitespider.py[line:120] INFO Error urls: 0.
+Thu, 07 Jun 2018 13:09:07 allsitespider.py[line:121] INFO All urls: 1.
+Thu, 07 Jun 2018 13:09:07 allsitespider.py[line:122] INFO Time usage: 0:00:02.217103
+Thu, 07 Jun 2018 13:09:07 allsitespider.py[line:123] INFO Spider closed.
+Thu, 07 Jun 2018 13:09:07 test_crawel.py[line:40] INFO The crawl_all is completed.
+Thu, 07 Jun 2018 13:09:07 cleanwash.py[line:20] INFO Start to clean wash...
+Thu, 07 Jun 2018 13:09:07 cleanwash.py[line:26] INFO Clean wash over!
+Thu, 07 Jun 2018 13:09:07 test_crawel.py[line:48] INFO The clean_wash is completed.
+Thu, 07 Jun 2018 13:14:04 allsitespider.py[line:93] INFO Spider start crawl.
+Thu, 07 Jun 2018 13:14:04 allsitespider.py[line:95] INFO Init first task.
+Thu, 07 Jun 2018 13:14:05 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Thu, 07 Jun 2018 13:14:06 allsitespider.py[line:114] INFO Request num: 1.
+Thu, 07 Jun 2018 13:14:06 allsitespider.py[line:115] INFO History num: 0.
+Thu, 07 Jun 2018 13:14:06 allsitespider.py[line:116] INFO Response num: 0.
+Thu, 07 Jun 2018 13:14:06 allsitespider.py[line:117] INFO Abstract urls: 0.
+Thu, 07 Jun 2018 13:14:06 allsitespider.py[line:118] INFO Filter urls: 0.
+Thu, 07 Jun 2018 13:14:06 allsitespider.py[line:119] INFO Filter history urls: 0.
+Thu, 07 Jun 2018 13:14:06 allsitespider.py[line:120] INFO Error urls: 0.
+Thu, 07 Jun 2018 13:14:06 allsitespider.py[line:121] INFO All urls: 1.
+Thu, 07 Jun 2018 13:14:06 allsitespider.py[line:122] INFO Time usage: 0:00:02.238564
+Thu, 07 Jun 2018 13:14:06 allsitespider.py[line:123] INFO Spider closed.
+Thu, 07 Jun 2018 13:14:06 test_crawel.py[line:40] INFO The crawl_all is completed.
+Thu, 07 Jun 2018 13:14:07 cleanwash.py[line:20] INFO Start to clean wash...
+Thu, 07 Jun 2018 13:14:07 cleanwash.py[line:26] INFO Clean wash over!
+Thu, 07 Jun 2018 13:14:07 test_crawel.py[line:48] INFO The clean_wash is completed.
+Thu, 07 Jun 2018 13:15:50 allsitespider.py[line:93] INFO Spider start crawl.
+Thu, 07 Jun 2018 13:15:50 allsitespider.py[line:95] INFO Init first task.
+Thu, 07 Jun 2018 13:15:51 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Thu, 07 Jun 2018 13:15:51 allsitespider.py[line:114] INFO Request num: 1.
+Thu, 07 Jun 2018 13:15:51 allsitespider.py[line:115] INFO History num: 0.
+Thu, 07 Jun 2018 13:15:51 allsitespider.py[line:116] INFO Response num: 0.
+Thu, 07 Jun 2018 13:15:51 allsitespider.py[line:117] INFO Abstract urls: 0.
+Thu, 07 Jun 2018 13:15:51 allsitespider.py[line:118] INFO Filter urls: 0.
+Thu, 07 Jun 2018 13:15:51 allsitespider.py[line:119] INFO Filter history urls: 0.
+Thu, 07 Jun 2018 13:15:51 allsitespider.py[line:120] INFO Error urls: 0.
+Thu, 07 Jun 2018 13:15:51 allsitespider.py[line:121] INFO All urls: 1.
+Thu, 07 Jun 2018 13:15:51 allsitespider.py[line:122] INFO Time usage: 0:00:01.152050
+Thu, 07 Jun 2018 13:15:51 allsitespider.py[line:123] INFO Spider closed.
+Thu, 07 Jun 2018 13:15:51 test_crawel.py[line:40] INFO The crawl_all is completed.
+Thu, 07 Jun 2018 13:15:51 cleanwash.py[line:20] INFO Start to clean wash...
+Thu, 07 Jun 2018 13:15:51 cleanwash.py[line:26] INFO Clean wash over!
+Thu, 07 Jun 2018 13:15:51 test_crawel.py[line:48] INFO The clean_wash is completed.
+Thu, 07 Jun 2018 13:24:12 test_common.py[line:28] INFO The database set already .
+Thu, 07 Jun 2018 13:24:22 allsitespider.py[line:93] INFO Spider start crawl.
+Thu, 07 Jun 2018 13:24:22 allsitespider.py[line:95] INFO Init first task.
+Thu, 07 Jun 2018 13:24:23 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Thu, 07 Jun 2018 13:24:23 allsitespider.py[line:114] INFO Request num: 1.
+Thu, 07 Jun 2018 13:24:23 allsitespider.py[line:115] INFO History num: 0.
+Thu, 07 Jun 2018 13:24:23 allsitespider.py[line:116] INFO Response num: 0.
+Thu, 07 Jun 2018 13:24:23 allsitespider.py[line:117] INFO Abstract urls: 0.
+Thu, 07 Jun 2018 13:24:23 allsitespider.py[line:118] INFO Filter urls: 0.
+Thu, 07 Jun 2018 13:24:23 allsitespider.py[line:119] INFO Filter history urls: 0.
+Thu, 07 Jun 2018 13:24:23 allsitespider.py[line:120] INFO Error urls: 0.
+Thu, 07 Jun 2018 13:24:23 allsitespider.py[line:121] INFO All urls: 1.
+Thu, 07 Jun 2018 13:24:23 allsitespider.py[line:122] INFO Time usage: 0:00:01.149258
+Thu, 07 Jun 2018 13:24:23 allsitespider.py[line:123] INFO Spider closed.
+Thu, 07 Jun 2018 13:24:23 test_crawel.py[line:40] INFO The crawl_all is completed.
+Thu, 07 Jun 2018 13:24:23 cleanwash.py[line:20] INFO Start to clean wash...
+Thu, 07 Jun 2018 13:24:23 cleanwash.py[line:26] INFO Clean wash over!
+Thu, 07 Jun 2018 13:24:23 test_crawel.py[line:48] INFO The clean_wash is completed.
+Thu, 07 Jun 2018 13:26:08 allsitespider.py[line:93] INFO Spider start crawl.
+Thu, 07 Jun 2018 13:26:08 allsitespider.py[line:95] INFO Init first task.
+Thu, 07 Jun 2018 13:26:09 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Thu, 07 Jun 2018 13:26:09 allsitespider.py[line:114] INFO Request num: 1.
+Thu, 07 Jun 2018 13:26:09 allsitespider.py[line:115] INFO History num: 0.
+Thu, 07 Jun 2018 13:26:09 allsitespider.py[line:116] INFO Response num: 0.
+Thu, 07 Jun 2018 13:26:09 allsitespider.py[line:117] INFO Abstract urls: 0.
+Thu, 07 Jun 2018 13:26:09 allsitespider.py[line:118] INFO Filter urls: 0.
+Thu, 07 Jun 2018 13:26:09 allsitespider.py[line:119] INFO Filter history urls: 0.
+Thu, 07 Jun 2018 13:26:09 allsitespider.py[line:120] INFO Error urls: 0.
+Thu, 07 Jun 2018 13:26:09 allsitespider.py[line:121] INFO All urls: 1.
+Thu, 07 Jun 2018 13:26:09 allsitespider.py[line:122] INFO Time usage: 0:00:01.177389
+Thu, 07 Jun 2018 13:26:09 allsitespider.py[line:123] INFO Spider closed.
+Thu, 07 Jun 2018 13:26:09 test_crawel.py[line:40] INFO The crawl_all is completed.
+Thu, 07 Jun 2018 13:26:09 cleanwash.py[line:20] INFO Start to clean wash...
+Thu, 07 Jun 2018 13:26:09 cleanwash.py[line:26] INFO Clean wash over!
+Thu, 07 Jun 2018 13:26:09 test_crawel.py[line:48] INFO The clean_wash is completed.
+Thu, 07 Jun 2018 13:31:42 allsitespider.py[line:93] INFO Spider start crawl.
+Thu, 07 Jun 2018 13:31:42 allsitespider.py[line:95] INFO Init first task.
+Thu, 07 Jun 2018 13:31:44 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Thu, 07 Jun 2018 13:31:44 allsitespider.py[line:114] INFO Request num: 1.
+Thu, 07 Jun 2018 13:31:44 allsitespider.py[line:115] INFO History num: 0.
+Thu, 07 Jun 2018 13:31:44 allsitespider.py[line:116] INFO Response num: 0.
+Thu, 07 Jun 2018 13:31:44 allsitespider.py[line:117] INFO Abstract urls: 0.
+Thu, 07 Jun 2018 13:31:44 allsitespider.py[line:118] INFO Filter urls: 0.
+Thu, 07 Jun 2018 13:31:44 allsitespider.py[line:119] INFO Filter history urls: 0.
+Thu, 07 Jun 2018 13:31:44 allsitespider.py[line:120] INFO Error urls: 0.
+Thu, 07 Jun 2018 13:31:44 allsitespider.py[line:121] INFO All urls: 1.
+Thu, 07 Jun 2018 13:31:44 allsitespider.py[line:122] INFO Time usage: 0:00:01.148956
+Thu, 07 Jun 2018 13:31:44 allsitespider.py[line:123] INFO Spider closed.
+Thu, 07 Jun 2018 13:31:44 test_crawel.py[line:40] INFO The crawl_all is completed.
+Thu, 07 Jun 2018 13:31:44 cleanwash.py[line:20] INFO Start to clean wash...
+Thu, 07 Jun 2018 13:31:44 cleanwash.py[line:26] INFO Clean wash over!
+Thu, 07 Jun 2018 13:31:44 test_crawel.py[line:48] INFO The clean_wash is completed.
+Thu, 07 Jun 2018 13:43:51 allsitespider.py[line:93] INFO Spider start crawl.
+Thu, 07 Jun 2018 13:43:51 allsitespider.py[line:95] INFO Init first task.
+Thu, 07 Jun 2018 13:43:52 allsitespider.py[line:52] ERROR Empty times > 50, program exit!
+Thu, 07 Jun 2018 13:43:53 allsitespider.py[line:114] INFO Request num: 2.
+Thu, 07 Jun 2018 13:43:53 allsitespider.py[line:115] INFO History num: 1.
+Thu, 07 Jun 2018 13:43:53 allsitespider.py[line:116] INFO Response num: 3.
+Thu, 07 Jun 2018 13:43:53 allsitespider.py[line:117] INFO Abstract urls: 1.
+Thu, 07 Jun 2018 13:43:53 allsitespider.py[line:118] INFO Filter urls: 0.
+Thu, 07 Jun 2018 13:43:53 allsitespider.py[line:119] INFO Filter history urls: 0.
+Thu, 07 Jun 2018 13:43:53 allsitespider.py[line:120] INFO Error urls: 0.
+Thu, 07 Jun 2018 13:43:53 allsitespider.py[line:121] INFO All urls: 2.
+Thu, 07 Jun 2018 13:43:53 allsitespider.py[line:122] INFO Time usage: 0:00:02.260039
+Thu, 07 Jun 2018 13:43:53 allsitespider.py[line:123] INFO Spider closed.
+Thu, 07 Jun 2018 13:43:53 test_crawel.py[line:40] INFO The crawl_all is completed.
+Thu, 07 Jun 2018 13:43:53 cleanwash.py[line:20] INFO Start to clean wash...
+Thu, 07 Jun 2018 13:43:53 cleanwash.py[line:26] INFO Clean wash over!
+Thu, 07 Jun 2018 13:43:53 test_crawel.py[line:48] INFO The clean_wash is completed.
+Thu, 07 Jun 2018 13:45:22 test_common.py[line:28] INFO The database set already .
