@@ -3,7 +3,7 @@
 """
 @File: test_crawl_all.py
 @Time: 2018/5/15 17:50
-@Author:lei.tang@tongfudun.com
+@Author:lei.tang
 @Funtion:unittest for crawl_all api
 """
 
