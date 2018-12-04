@@ -32,7 +32,7 @@ if __name__ == "__main__":
     # setting_command = "QA"
     # collection_tmp = 'crawler_urls_tmp'
     collection_clean = "crawler_urls"
-    # url_crawl_one = "https://www.tongfudun.com"
+    # url_crawl_one = "https://www.*****.com"
     header = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1', }
     file_name = "logs/erroneous.txt"
 
